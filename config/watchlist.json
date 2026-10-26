@@ -1,0 +1,26 @@
+{
+  "timezone": "America/Los_Angeles",
+  "min_views": 5000,
+  "star_views": 10000,
+  "window_hours": 48,
+  "topics": ["FSD/Tesla", "Pokemon TCG", "Apple"],
+  "accounts": [
+    {"handle": "ChuckCook", "topic": "FSD/Tesla"},
+    {"handle": "AIDRIVR", "topic": "FSD/Tesla"},
+    {"handle": "NotATeslaApp", "topic": "FSD/Tesla"},
+    {"handle": "teslascope", "topic": "FSD/Tesla"},
+    {"handle": "DirtyTesLa", "topic": "FSD/Tesla"},
+    {"handle": "BLKMDL3", "topic": "FSD/Tesla"},
+    {"handle": "TeslaNewswire", "topic": "FSD/Tesla"},
+    {"handle": "wholemars", "topic": "FSD/Tesla"},
+    {"handle": "SawyerMerritt", "topic": "FSD/Tesla"},
+    {"handle": "PokeGuardian", "topic": "Pokemon TCG"},
+    {"handle": "PokeBeach", "topic": "Pokemon TCG"},
+    {"handle": "LeonhartYT", "topic": "Pokemon TCG"},
+    {"handle": "PokeJungle", "topic": "Pokemon TCG"},
+    {"handle": "markgurman", "topic": "Apple"},
+    {"handle": "9to5mac", "topic": "Apple"},
+    {"handle": "MKBHD", "topic": "Apple"}
+  ],
+  "exclude_keywords": ["crypto", "bitcoin", "btc", "eth", "dogecoin", "doge", "nft", "memecoin", "scalp", "scalper", "scalping", "bot", "bots", "auto-checkout", "autocheckout"]
+}
