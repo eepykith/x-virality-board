@@ -75,7 +75,8 @@ TOPIC_RE = {"FSD/Tesla": r"tesla|fsd|robotaxi|cybercab|cybertruck|roadster|model
             "Pokemon TCG": r"pok[eé]mon|tcg|booster|etb|elite trainer|\\bset\\b|card|pull|promo",
             "Apple": r"apple|iphone|ipad|macbook|\\bmac\\b|imac|vision pro|airpods|ios|watch"}
 on_topic = lambda p: re.search(TOPIC_RE[p["topic"]], p["text"], re.I) is not None
-breakouts = [p for p in hits if (p["multiple"] or 0) >= 1.5 and on_topic(p)]
+hits = [p for p in hits if on_topic(p)]
+breakouts = [p for p in hits if (p["multiple"] or 0) >= 1.5]
 # keep topic diversity: best per topic first, then by multiple
 seen, ordered = set(), []
 for p in breakouts:

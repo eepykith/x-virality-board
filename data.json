@@ -2,7 +2,7 @@
  "title": "X virality board — 2026-10-25",
  "date": "2026-10-25",
  "timezone": "America/Los_Angeles",
- "updated": "2026-10-25T20:59:42-07:00",
+ "updated": "2026-10-25T21:01:16-07:00",
  "brand_title": "Your X Virality Score",
  "brand_handle": "FSD · Pokemon TCG · Apple",
  "operator": {
@@ -15,35 +15,6 @@
  },
  "hits": [
   {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114378322012774805",
-   "status_url": "https://x.com/i/status/2114378322012774805",
-   "text": "Alex Gibney’s 4 hour long movie about Elon Musk has been pulled from theaters within two weeks of release after flopping hard https://t.co/1810l7ivnH",
-   "views": 276758,
-   "views_label": "276.8K",
-   "median": 20340.0,
-   "multiple": 13.61,
-   "age_hours": 12.5,
-   "created_at": "2026-10-25T08:27:29-07:00",
-   "likes": 4815,
-   "reposts": 217,
-   "replies": 245,
-   "bookmarks": 130,
-   "format": "standalone + photo",
-   "keywords": [
-    "alex",
-    "gibney",
-    "hour",
-    "long",
-    "movie"
-   ],
-   "highlight": true,
-   "hook": "Alex Gibney’s 4 hour long movie about Elon Musk has been pulled from theaters within two weeks of release after flopping hard https://t.co/1810l7ivnH",
-   "video_tip": "FSD/Tesla · 12.5h old · 13.61× median · standalone + photo · kw: alex, gibney, hour, long, movie"
-  },
-  {
    "handle": "@BLKMDL3",
    "name": "BLKMDL3",
    "topic": "FSD/Tesla",
@@ -54,7 +25,7 @@
    "views_label": "61.8K",
    "median": 5987,
    "multiple": 10.32,
-   "age_hours": 33.3,
+   "age_hours": 33.4,
    "created_at": "2026-10-24T11:39:28-07:00",
    "likes": 809,
    "reposts": 43,
@@ -70,7 +41,7 @@
    ],
    "highlight": true,
    "hook": "Photos DO NOT do the Tesla Roadster justice, it’s even better in person. \n\nIt’s at the Petersen until Tuesday, so if you’re near LA definitely gotta see it. https://t.co/TLzQKMDhjL",
-   "video_tip": "FSD/Tesla · 33.3h old · 10.32× median · standalone + photo · kw: photos, tesla, roadster, justice, better"
+   "video_tip": "FSD/Tesla · 33.4h old · 10.32× median · standalone + photo · kw: photos, tesla, roadster, justice, better"
   },
   {
    "handle": "@TeslaNewswire",
@@ -83,7 +54,7 @@
    "views_label": "52.7K",
    "median": 6499,
    "multiple": 8.1,
-   "age_hours": 34.9,
+   "age_hours": 35.0,
    "created_at": "2026-10-24T10:03:56-07:00",
    "likes": 378,
    "reposts": 22,
@@ -98,7 +69,7 @@
    ],
    "highlight": true,
    "hook": "Roadster-inspired refreshed Tesla Model Y https://t.co/ld2MykO600 https://t.co/Bqn9x2QCrq",
-   "video_tip": "FSD/Tesla · 34.9h old · 8.1× median · quote + photo · kw: roadster-inspired, refreshed, tesla, model"
+   "video_tip": "FSD/Tesla · 35.0h old · 8.1× median · quote + photo · kw: roadster-inspired, refreshed, tesla, model"
   },
   {
    "handle": "@teslascope",
@@ -140,7 +111,7 @@
    "views_label": "13.2K",
    "median": 2041,
    "multiple": 6.47,
-   "age_hours": 23.3,
+   "age_hours": 23.4,
    "created_at": "2026-10-24T21:40:09-07:00",
    "likes": 103,
    "reposts": 4,
@@ -156,7 +127,7 @@
    ],
    "highlight": true,
    "hook": "Tesla software update 2026.38.5.11 is now rolling out to ~1,870 additional vehicles within the last five minutes based on available fleet data.\n\nThis update includes Full Self-Driving V14.3.13 for eligible AI4 vehicles (65%). https://t.co/TFXg15jzgW",
-   "video_tip": "FSD/Tesla · 23.3h old · 6.47× median · quote + text · kw: update, vehicles, tesla, software, 2026.38.5.11"
+   "video_tip": "FSD/Tesla · 23.4h old · 6.47× median · quote + text · kw: update, vehicles, tesla, software, 2026.38.5.11"
   },
   {
    "handle": "@teslascope",
@@ -227,7 +198,7 @@
    "views_label": "33.3K",
    "median": 6499,
    "multiple": 5.12,
-   "age_hours": 10.3,
+   "age_hours": 10.4,
    "created_at": "2026-10-25T10:39:51-07:00",
    "likes": 561,
    "reposts": 25,
@@ -242,7 +213,7 @@
    ],
    "highlight": true,
    "hook": "Quicksilver Tesla Model 3 Performance 🔥 https://t.co/D10tTES57a",
-   "video_tip": "FSD/Tesla · 10.3h old · 5.12× median · standalone + photo · kw: quicksilver, tesla, model, performance"
+   "video_tip": "FSD/Tesla · 10.4h old · 5.12× median · standalone + photo · kw: quicksilver, tesla, model, performance"
   },
   {
    "handle": "@markgurman",
@@ -272,64 +243,6 @@
    "highlight": true,
    "hook": "Power On: Apple’s touch-screen MacBook Pro will arrive on Wednesday, marking the tech giant’s latest major reversal. https://t.co/P4M498jUTQ",
    "video_tip": "Apple · 13.8h old · 5.1× median · standalone + text · kw: power, apple, touch-screen, macbook, pro"
-  },
-  {
-   "handle": "@SawyerMerritt",
-   "name": "SawyerMerritt",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/SawyerMerritt/status/2114376221551157748",
-   "status_url": "https://x.com/i/status/2114376221551157748",
-   "text": "New Starlink in flight Wi-Fi review:\n\n\"I was flying over the Sierra Nevada mountain range recently when I had a tech experience that left me enthralled. It also shows why I believe @elonmusk is the greatest technologist working today. Simply stated, I was blown away.\n\nInstead of https://t.co/3ryGilabPo",
-   "views": 422572,
-   "views_label": "422.6K",
-   "median": 87948,
-   "multiple": 4.8,
-   "age_hours": 12.7,
-   "created_at": "2026-10-25T08:19:09-07:00",
-   "likes": 2342,
-   "reposts": 322,
-   "replies": 195,
-   "bookmarks": 68,
-   "format": "standalone + photo",
-   "keywords": [
-    "starlink",
-    "flight",
-    "wi-fi",
-    "review",
-    "flying"
-   ],
-   "highlight": true,
-   "hook": "New Starlink in flight Wi-Fi review:\n\n\"I was flying over the Sierra Nevada mountain range recently when I had a tech experience that left me enthralled. It also shows why I believe @elonmusk is the greatest technologist working today. Simply stated, I was blown away.\n\nInstead of ",
-   "video_tip": "FSD/Tesla · 12.7h old · 4.8× median · standalone + photo · kw: starlink, flight, wi-fi, review, flying"
-  },
-  {
-   "handle": "@BLKMDL3",
-   "name": "BLKMDL3",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/BLKMDL3/status/2114123117195153905",
-   "status_url": "https://x.com/i/status/2114123117195153905",
-   "text": "Whelp. Must be a slow day on I-5 to pull people over for no front plate 🤣 https://t.co/SABDeqdj3y",
-   "views": 26321,
-   "views_label": "26.3K",
-   "median": 5987,
-   "multiple": 4.4,
-   "age_hours": 29.4,
-   "created_at": "2026-10-24T15:33:24-07:00",
-   "likes": 495,
-   "reposts": 3,
-   "replies": 84,
-   "bookmarks": 9,
-   "format": "standalone + photo",
-   "keywords": [
-    "whelp",
-    "must",
-    "slow",
-    "day",
-    "i-5"
-   ],
-   "highlight": true,
-   "hook": "Whelp. Must be a slow day on I-5 to pull people over for no front plate 🤣 https://t.co/SABDeqdj3y",
-   "video_tip": "FSD/Tesla · 29.4h old · 4.4× median · standalone + photo · kw: whelp, must, slow, day, i-5"
   },
   {
    "handle": "@teslascope",
@@ -516,7 +429,7 @@
    "views_label": "78.4K",
    "median": 25114,
    "multiple": 3.12,
-   "age_hours": 17.2,
+   "age_hours": 17.3,
    "created_at": "2026-10-25T03:45:34-07:00",
    "likes": 431,
    "reposts": 45,
@@ -532,7 +445,7 @@
    ],
    "highlight": true,
    "hook": "Some iPhone Duo displays are cracking, seemingly all in the same way https://t.co/36dhE5mndf by @bzamayo",
-   "video_tip": "Apple · 17.2h old · 3.12× median · standalone + text · kw: iphone, duo, displays, cracking, seemingly"
+   "video_tip": "Apple · 17.3h old · 3.12× median · standalone + text · kw: iphone, duo, displays, cracking, seemingly"
   },
   {
    "handle": "@DirtyTesLa",
@@ -574,7 +487,7 @@
    "views_label": "6.2K",
    "median": 2041,
    "multiple": 3.04,
-   "age_hours": 22.3,
+   "age_hours": 22.4,
    "created_at": "2026-10-24T22:40:10-07:00",
    "likes": 42,
    "reposts": 3,
@@ -590,7 +503,7 @@
    ],
    "highlight": false,
    "hook": "Tesla software update 2026.38.3.2 is now rolling out to ~9,460 additional vehicles within the last five minutes based on available fleet data. https://t.co/u3U7e3AzHb",
-   "video_tip": "FSD/Tesla · 22.3h old · 3.04× median · quote + text · kw: tesla, software, update, 2026.38.3.2, rolling"
+   "video_tip": "FSD/Tesla · 22.4h old · 3.04× median · quote + text · kw: tesla, software, update, 2026.38.3.2, rolling"
   },
   {
    "handle": "@TeslaNewswire",
@@ -632,7 +545,7 @@
    "views_label": "19.1K",
    "median": 6544,
    "multiple": 2.91,
-   "age_hours": 9.5,
+   "age_hours": 9.6,
    "created_at": "2026-10-25T11:27:49-07:00",
    "likes": 177,
    "reposts": 13,
@@ -648,7 +561,7 @@
    ],
    "highlight": true,
    "hook": "Biggest Tesla news of the week: Tesla announced that it expects to introduced Unsupervised FSD on customer vehicles around Q2 2027.\n\nFull Story:\nhttps://t.co/50fgXkEhPT https://t.co/cEP3nJXPA7",
-   "video_tip": "FSD/Tesla · 9.5h old · 2.91× median · standalone + photo · kw: tesla, biggest, news, week, announced"
+   "video_tip": "FSD/Tesla · 9.6h old · 2.91× median · standalone + photo · kw: tesla, biggest, news, week, announced"
   },
   {
    "handle": "@SawyerMerritt",
@@ -738,35 +651,6 @@
    "video_tip": "Apple · 13.7h old · 2.61× median · quote + text · kw: touch, within, apple, cook, ternus"
   },
   {
-   "handle": "@SawyerMerritt",
-   "name": "SawyerMerritt",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/SawyerMerritt/status/2114011083488829870",
-   "status_url": "https://x.com/i/status/2114011083488829870",
-   "text": "AT&amp;T CEO in new interview on SpaceX's @Starlink Mobile:\n\n\"Our competitors cannot and will not match our operating proficiency, network performance, or exceptional converged value proposition. I think LEO constellations are fantastic for delivering bandwidth to rural areas. I https://t.co/aYRFlYVsK8",
-   "views": 227844,
-   "views_label": "227.8K",
-   "median": 87948,
-   "multiple": 2.59,
-   "age_hours": 36.9,
-   "created_at": "2026-10-24T08:08:13-07:00",
-   "likes": 2373,
-   "reposts": 201,
-   "replies": 441,
-   "bookmarks": 164,
-   "format": "standalone + photo",
-   "keywords": [
-    "ceo",
-    "interview",
-    "spacex's",
-    "mobile",
-    "competitors"
-   ],
-   "highlight": true,
-   "hook": "AT&amp;T CEO in new interview on SpaceX's @Starlink Mobile:\n\n\"Our competitors cannot and will not match our operating proficiency, network performance, or exceptional converged value proposition. I think LEO constellations are fantastic for delivering bandwidth to rural areas. I ",
-   "video_tip": "FSD/Tesla · 36.9h old · 2.59× median · standalone + photo · kw: ceo, interview, spacex's, mobile, competitors"
-  },
-  {
    "handle": "@DirtyTesLa",
    "name": "DirtyTesLa",
    "topic": "FSD/Tesla",
@@ -796,35 +680,6 @@
    "video_tip": "FSD/Tesla · 32.9h old · 2.54× median · standalone + photo · kw: video, updates, cybercab, tried, make"
   },
   {
-   "handle": "@SawyerMerritt",
-   "name": "SawyerMerritt",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/SawyerMerritt/status/2114441129135583616",
-   "status_url": "https://x.com/i/status/2114441129135583616",
-   "text": "Elon confirms that SpaceX has closed a new $40B debt raise to fund GPU purchases/compute buildout.\n\nSpaceX said on its recent earnings call that it expects Q4 2026 Capex spend to be between $35 billion–$40 billion. https://t.co/Mhk25DomIF",
-   "views": 205365,
-   "views_label": "205.4K",
-   "median": 87948,
-   "multiple": 2.34,
-   "age_hours": 8.4,
-   "created_at": "2026-10-25T12:37:04-07:00",
-   "likes": 2489,
-   "reposts": 116,
-   "replies": 108,
-   "bookmarks": 109,
-   "format": "quote + text",
-   "keywords": [
-    "spacex",
-    "billion",
-    "elon",
-    "confirms",
-    "closed"
-   ],
-   "highlight": true,
-   "hook": "Elon confirms that SpaceX has closed a new $40B debt raise to fund GPU purchases/compute buildout.\n\nSpaceX said on its recent earnings call that it expects Q4 2026 Capex spend to be between $35 billion–$40 billion. https://t.co/Mhk25DomIF",
-   "video_tip": "FSD/Tesla · 8.4h old · 2.34× median · quote + text · kw: spacex, billion, elon, confirms, closed"
-  },
-  {
    "handle": "@NotATeslaApp",
    "name": "NotATeslaApp",
    "topic": "FSD/Tesla",
@@ -835,7 +690,7 @@
    "views_label": "15.3K",
    "median": 6544,
    "multiple": 2.33,
-   "age_hours": 31.6,
+   "age_hours": 31.7,
    "created_at": "2026-10-24T13:22:04-07:00",
    "likes": 95,
    "reposts": 6,
@@ -851,7 +706,7 @@
    ],
    "highlight": true,
    "hook": "Tesla has released an updated version of FSD v14.3.13 with update 2026.38.5.11.\n\nThe release notes and FSD version remain the same as update 2026.38.5.10. Currently going out to vehicles with early access.\n\nRelease Notes:\nhttps://t.co/Q6BMBequAF https://t.co/ntLZPMGucK",
-   "video_tip": "FSD/Tesla · 31.6h old · 2.33× median · standalone + photo · kw: version, fsd, update, release, notes"
+   "video_tip": "FSD/Tesla · 31.7h old · 2.33× median · standalone + photo · kw: version, fsd, update, release, notes"
   },
   {
    "handle": "@BLKMDL3",
@@ -891,7 +746,7 @@
    "views_label": "202.8K",
    "median": 87948,
    "multiple": 2.31,
-   "age_hours": 10.2,
+   "age_hours": 10.3,
    "created_at": "2026-10-25T10:45:39-07:00",
    "likes": 3672,
    "reposts": 304,
@@ -907,7 +762,7 @@
    ],
    "highlight": true,
    "hook": "Over 50 Tesla Cybercabs spotted so far dropping off passengers today at the F1 race in Austin, Texas.\n\nTesla expanded its Robotaxi geofence a couple of days ago to include the F1 race venue, ahead of today's race, which is expected to draw over 120,000 attendees. https://t.co/N7H",
-   "video_tip": "FSD/Tesla · 10.2h old · 2.31× median · standalone + video · kw: race, tesla, cybercabs, spotted, far"
+   "video_tip": "FSD/Tesla · 10.3h old · 2.31× median · standalone + video · kw: race, tesla, cybercabs, spotted, far"
   },
   {
    "handle": "@TeslaNewswire",
@@ -966,32 +821,6 @@
    "highlight": true,
    "hook": "Everyone failed to point out the real problem with the iPhone Duo lacking Face ID: You can’t buy a Vision Pro with it. https://t.co/WKEgEphCQ9",
    "video_tip": "Apple · 6.0h old · 2.11× median · standalone + photo · kw: everyone, failed, point, real, problem"
-  },
-  {
-   "handle": "@BLKMDL3",
-   "name": "BLKMDL3",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/BLKMDL3/status/2114040129132302738",
-   "status_url": "https://x.com/i/status/2114040129132302738",
-   "text": "HELL YES https://t.co/1VR7gsmxk4",
-   "views": 12585,
-   "views_label": "12.6K",
-   "median": 5987,
-   "multiple": 2.1,
-   "age_hours": 34.9,
-   "created_at": "2026-10-24T10:03:38-07:00",
-   "likes": 823,
-   "reposts": 42,
-   "replies": 24,
-   "bookmarks": 26,
-   "format": "standalone + photo",
-   "keywords": [
-    "hell",
-    "yes"
-   ],
-   "highlight": true,
-   "hook": "HELL YES https://t.co/1VR7gsmxk4",
-   "video_tip": "FSD/Tesla · 34.9h old · 2.1× median · standalone + photo · kw: hell, yes"
   },
   {
    "handle": "@TeslaNewswire",
@@ -1119,7 +948,7 @@
    "views_label": "11.3K",
    "median": 6499,
    "multiple": 1.74,
-   "age_hours": 13.5,
+   "age_hours": 13.6,
    "created_at": "2026-10-25T07:27:57-07:00",
    "likes": 123,
    "reposts": 8,
@@ -1135,7 +964,7 @@
    ],
    "highlight": true,
    "hook": "Grok runs smoothly on Intel Atom-equipped Teslas!\n\nA hacker managed to get it running on a legacy Model 3. https://t.co/ez874EvURG https://t.co/u3EAJXWTTE",
-   "video_tip": "FSD/Tesla · 13.5h old · 1.74× median · quote + video · kw: grok, runs, smoothly, intel, atom-equipped"
+   "video_tip": "FSD/Tesla · 13.6h old · 1.74× median · quote + video · kw: grok, runs, smoothly, intel, atom-equipped"
   },
   {
    "handle": "@SawyerMerritt",
@@ -1220,35 +1049,6 @@
    "highlight": true,
    "hook": "What was the most interesting Tesla / EV / AI news of the week?",
    "video_tip": "FSD/Tesla · 12.2h old · 1.69× median · standalone + text + question · kw: interesting, tesla, news, week"
-  },
-  {
-   "handle": "@9to5mac",
-   "name": "9to5mac",
-   "topic": "Apple",
-   "url": "https://x.com/9to5mac/status/2114111332043674036",
-   "status_url": "https://x.com/i/status/2114111332043674036",
-   "text": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry https://t.co/sm7d6k8cKw by @mbrkhrdt",
-   "views": 42016,
-   "views_label": "42.0K",
-   "median": 25114,
-   "multiple": 1.67,
-   "age_hours": 30.2,
-   "created_at": "2026-10-24T14:46:34-07:00",
-   "likes": 106,
-   "reposts": 5,
-   "replies": 6,
-   "bookmarks": 39,
-   "format": "standalone + text",
-   "keywords": [
-    "hands-on",
-    "belkin",
-    "semi",
-    "solid",
-    "state"
-   ],
-   "highlight": true,
-   "hook": "Hands-on: Belkin’s new semi solid state batteries make for a much lighter carry https://t.co/sm7d6k8cKw by @mbrkhrdt",
-   "video_tip": "Apple · 30.2h old · 1.67× median · standalone + text · kw: hands-on, belkin, semi, solid, state"
   },
   {
    "handle": "@BLKMDL3",
@@ -1367,62 +1167,6 @@
    "video_tip": "FSD/Tesla · 21.1h old · 1.54× median · quote + photo · kw: halloween, mode, tesla, 2026.38.3.2, software"
   },
   {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114473043028541864",
-   "status_url": "https://x.com/i/status/2114473043028541864",
-   "text": "Elon: SpaceX is not buying any neoclouds https://t.co/kvAZ1whmkh",
-   "views": 30969,
-   "views_label": "31.0K",
-   "median": 20340.0,
-   "multiple": 1.52,
-   "age_hours": 6.3,
-   "created_at": "2026-10-25T14:43:53-07:00",
-   "likes": 551,
-   "reposts": 19,
-   "replies": 23,
-   "bookmarks": 11,
-   "format": "quote + text",
-   "keywords": [
-    "elon",
-    "spacex",
-    "buying",
-    "neoclouds"
-   ],
-   "highlight": true,
-   "hook": "Elon: SpaceX is not buying any neoclouds https://t.co/kvAZ1whmkh",
-   "video_tip": "FSD/Tesla · 6.3h old · 1.52× median · quote + text · kw: elon, spacex, buying, neoclouds"
-  },
-  {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114470130575134725",
-   "status_url": "https://x.com/i/status/2114470130575134725",
-   "text": "The looters are now calling for the nationalization of Grok https://t.co/kDSzgpAt25",
-   "views": 30556,
-   "views_label": "30.6K",
-   "median": 20340.0,
-   "multiple": 1.5,
-   "age_hours": 6.5,
-   "created_at": "2026-10-25T14:32:18-07:00",
-   "likes": 975,
-   "reposts": 58,
-   "replies": 170,
-   "bookmarks": 24,
-   "format": "standalone + photo",
-   "keywords": [
-    "looters",
-    "calling",
-    "nationalization",
-    "grok"
-   ],
-   "highlight": true,
-   "hook": "The looters are now calling for the nationalization of Grok https://t.co/kDSzgpAt25",
-   "video_tip": "FSD/Tesla · 6.5h old · 1.5× median · standalone + photo · kw: looters, calling, nationalization, grok"
-  },
-  {
    "handle": "@9to5mac",
    "name": "9to5mac",
    "topic": "Apple",
@@ -1479,35 +1223,6 @@
    "highlight": true,
    "hook": "OLED iPad mini 8 debuting this week: Here's what's coming, and how much it'll cost https://t.co/txrHIuasRK by @mbrkhrdt",
    "video_tip": "Apple · 11.9h old · 1.41× median · standalone + text · kw: oled, ipad, mini, debuting, week"
-  },
-  {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114469648226021594",
-   "status_url": "https://x.com/i/status/2114469648226021594",
-   "text": "This guy wants people to die because he doesn’t like Elon Musk’s tweets https://t.co/4Zyu0RJkFO",
-   "views": 27473,
-   "views_label": "27.5K",
-   "median": 20340.0,
-   "multiple": 1.35,
-   "age_hours": 6.5,
-   "created_at": "2026-10-25T14:30:23-07:00",
-   "likes": 620,
-   "reposts": 24,
-   "replies": 50,
-   "bookmarks": 15,
-   "format": "quote + text",
-   "keywords": [
-    "guy",
-    "wants",
-    "people",
-    "die",
-    "because"
-   ],
-   "highlight": true,
-   "hook": "This guy wants people to die because he doesn’t like Elon Musk’s tweets https://t.co/4Zyu0RJkFO",
-   "video_tip": "FSD/Tesla · 6.5h old · 1.35× median · quote + text · kw: guy, wants, people, die, because"
   },
   {
    "handle": "@BLKMDL3",
@@ -1568,61 +1283,6 @@
    "video_tip": "Apple · 34.2h old · 1.31× median · standalone + text · kw: iphone, duo, day, later, quirks"
   },
   {
-   "handle": "@markgurman",
-   "name": "markgurman",
-   "topic": "Apple",
-   "url": "https://x.com/markgurman/status/2114374850479542556",
-   "status_url": "https://x.com/i/status/2114374850479542556",
-   "text": "Yep. Returned the Folio last night. https://t.co/Yqk1oLFLZ7",
-   "views": 144147,
-   "views_label": "144.1K",
-   "median": 115724,
-   "multiple": 1.25,
-   "age_hours": 12.8,
-   "created_at": "2026-10-25T08:13:42-07:00",
-   "likes": 1312,
-   "reposts": 26,
-   "replies": 87,
-   "bookmarks": 95,
-   "format": "quote + text",
-   "keywords": [
-    "yep",
-    "returned",
-    "folio",
-    "night"
-   ],
-   "highlight": true,
-   "hook": "Yep. Returned the Folio last night. https://t.co/Yqk1oLFLZ7",
-   "video_tip": "Apple · 12.8h old · 1.25× median · quote + text · kw: yep, returned, folio, night"
-  },
-  {
-   "handle": "@BLKMDL3",
-   "name": "BLKMDL3",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/BLKMDL3/status/2114179228971503777",
-   "status_url": "https://x.com/i/status/2114179228971503777",
-   "text": "Back at the mothership, 286,006 miles later. https://t.co/BlQEiZ2eqZ",
-   "views": 7260,
-   "views_label": "7.3K",
-   "median": 5987,
-   "multiple": 1.21,
-   "age_hours": 25.7,
-   "created_at": "2026-10-24T19:16:22-07:00",
-   "likes": 353,
-   "reposts": 9,
-   "replies": 21,
-   "bookmarks": 5,
-   "format": "standalone + photo",
-   "keywords": [
-    "mothership",
-    "miles",
-    "later"
-   ],
-   "highlight": false,
-   "hook": "Back at the mothership, 286,006 miles later. https://t.co/BlQEiZ2eqZ",
-   "video_tip": "FSD/Tesla · 25.7h old · 1.21× median · standalone + photo · kw: mothership, miles, later"
-  },
-  {
    "handle": "@wholemars",
    "name": "wholemars",
    "topic": "FSD/Tesla",
@@ -1633,7 +1293,7 @@
    "views_label": "24.5K",
    "median": 20340.0,
    "multiple": 1.21,
-   "age_hours": 6.8,
+   "age_hours": 6.9,
    "created_at": "2026-10-25T14:10:05-07:00",
    "likes": 595,
    "reposts": 26,
@@ -1647,7 +1307,7 @@
    ],
    "highlight": true,
    "hook": "I love my self-driving Tesla so much https://t.co/RsbQl9jXAb",
-   "video_tip": "FSD/Tesla · 6.8h old · 1.21× median · standalone + video · kw: love, self-driving, tesla"
+   "video_tip": "FSD/Tesla · 6.9h old · 1.21× median · standalone + video · kw: love, self-driving, tesla"
   },
   {
    "handle": "@NotATeslaApp",
@@ -1764,35 +1424,6 @@
    "video_tip": "FSD/Tesla · 29.1h old · 1.16× median · quote + photo · kw: cybercabs, fleet, tesla, added, official"
   },
   {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114247224846881169",
-   "status_url": "https://x.com/i/status/2114247224846881169",
-   "text": "There are three main ways we align human behavior: \n\n1. Through market forces, prices, taxes, incentives, etc \n\n2. Through the legal system (you will go to jail or pay a fine if you do this) \n\n3. Through social pressure (don’t be an asshole)",
-   "views": 23457,
-   "views_label": "23.5K",
-   "median": 20340.0,
-   "multiple": 1.15,
-   "age_hours": 21.2,
-   "created_at": "2026-10-24T23:46:33-07:00",
-   "likes": 124,
-   "reposts": 9,
-   "replies": 20,
-   "bookmarks": 13,
-   "format": "standalone + text",
-   "keywords": [
-    "through",
-    "three",
-    "main",
-    "ways",
-    "align"
-   ],
-   "highlight": true,
-   "hook": "There are three main ways we align human behavior: \n\n1. Through market forces, prices, taxes, incentives, etc \n\n2. Through the legal system (you will go to jail or pay a fine if you do this) \n\n3. Through social pressure (don’t be an asshole)",
-   "video_tip": "FSD/Tesla · 21.2h old · 1.15× median · standalone + text · kw: through, three, main, ways, align"
-  },
-  {
    "handle": "@TeslaNewswire",
    "name": "TeslaNewswire",
    "topic": "FSD/Tesla",
@@ -1861,7 +1492,7 @@
    "views_label": "20.5K",
    "median": 20340.0,
    "multiple": 1.01,
-   "age_hours": 21.9,
+   "age_hours": 22.0,
    "created_at": "2026-10-24T23:03:56-07:00",
    "likes": 181,
    "reposts": 5,
@@ -1877,7 +1508,7 @@
    ],
    "highlight": true,
    "hook": "paid $29 for a 10 minute / 2 mile Waymo ride tonight in an Ojai. ride quality was nauseating https://t.co/dtA3vAVNQA",
-   "video_tip": "FSD/Tesla · 21.9h old · 1.01× median · standalone + photo · kw: ride, paid, minute, mile, waymo"
+   "video_tip": "FSD/Tesla · 22.0h old · 1.01× median · standalone + photo · kw: ride, paid, minute, mile, waymo"
   },
   {
    "handle": "@BLKMDL3",
@@ -1919,7 +1550,7 @@
    "views_label": "6.5K",
    "median": 6499,
    "multiple": 1.0,
-   "age_hours": 35.2,
+   "age_hours": 35.3,
    "created_at": "2026-10-24T09:45:49-07:00",
    "likes": 54,
    "reposts": 3,
@@ -1935,7 +1566,7 @@
    ],
    "highlight": false,
    "hook": "Tesla Europe shares Wilco’s story from the Netherlands.\n\nAn undiagnosed seizure caused a crash with his family (youngest was two months old) and cost him a full year of driving.\n✅ Foot stuck on the gas during the seizure\n✅ Getting his license back wasn’t enough\n✅ FSD https://t.co",
-   "video_tip": "FSD/Tesla · 35.2h old · 1.0× median · quote + video · kw: seizure, tesla, europe, shares, wilco"
+   "video_tip": "FSD/Tesla · 35.3h old · 1.0× median · quote + video · kw: seizure, tesla, europe, shares, wilco"
   },
   {
    "handle": "@markgurman",
@@ -2064,7 +1695,7 @@
    "views_label": "6.2K",
    "median": 6499,
    "multiple": 0.96,
-   "age_hours": 9.5,
+   "age_hours": 9.6,
    "created_at": "2026-10-25T11:27:32-07:00",
    "likes": 38,
    "reposts": 4,
@@ -2080,7 +1711,7 @@
    ],
    "highlight": false,
    "hook": "🔥🎃 Tesla 2026.38.3.2 software update is now rolling out to the 5th batch of owners (reaching ~45% of the fleet)!\n\nRelease notes:\n✅ Security Improvements\n\n2026.38.3 changes:\n✅ Halloween Mode [AMD Ryzen]\nSpread holiday fear year round with Halloween Mode. Put a Ghost Costume on htt",
-   "video_tip": "FSD/Tesla · 9.5h old · 0.96× median · quote + photo · kw: halloween, mode, tesla, 2026.38.3.2, software"
+   "video_tip": "FSD/Tesla · 9.6h old · 0.96× median · quote + photo · kw: halloween, mode, tesla, 2026.38.3.2, software"
   },
   {
    "handle": "@SawyerMerritt",
@@ -2151,7 +1782,7 @@
    "views_label": "23.7K",
    "median": 25114,
    "multiple": 0.94,
-   "age_hours": 39.7,
+   "age_hours": 39.8,
    "created_at": "2026-10-24T05:15:33-07:00",
    "likes": 23,
    "reposts": 1,
@@ -2167,7 +1798,7 @@
    ],
    "highlight": true,
    "hook": "Apple weekend deals: Apple TV 4K, MacBook Pro $900 off, Pencil (USB-C), AirPods Pro 3, more https://t.co/4vW20QxR8T by @justinkahnmusic",
-   "video_tip": "Apple · 39.7h old · 0.94× median · standalone + text · kw: apple, pro, weekend, deals, macbook"
+   "video_tip": "Apple · 39.8h old · 0.94× median · standalone + text · kw: apple, pro, weekend, deals, macbook"
   },
   {
    "handle": "@SawyerMerritt",
@@ -2209,7 +1840,7 @@
    "views_label": "18.7K",
    "median": 20340.0,
    "multiple": 0.92,
-   "age_hours": 28.4,
+   "age_hours": 28.5,
    "created_at": "2026-10-24T16:33:37-07:00",
    "likes": 273,
    "reposts": 11,
@@ -2225,7 +1856,7 @@
    ],
    "highlight": true,
    "hook": "Here's the plaque next to the Tesla Roadster on display at The Petersen https://t.co/JwcLGBekEW",
-   "video_tip": "FSD/Tesla · 28.4h old · 0.92× median · standalone + photo · kw: plaque, tesla, roadster, display, petersen"
+   "video_tip": "FSD/Tesla · 28.5h old · 0.92× median · standalone + photo · kw: plaque, tesla, roadster, display, petersen"
   },
   {
    "handle": "@TeslaNewswire",
@@ -2606,32 +2237,6 @@
    "handle": "@wholemars",
    "name": "wholemars",
    "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114534476802118138",
-   "status_url": "https://x.com/i/status/2114534476802118138",
-   "text": "what a fucking entrance https://t.co/oBtrCrcGlU",
-   "views": 15501,
-   "views_label": "15.5K",
-   "median": 20340.0,
-   "multiple": 0.76,
-   "age_hours": 2.2,
-   "created_at": "2026-10-25T18:48:00-07:00",
-   "likes": 340,
-   "reposts": 12,
-   "replies": 14,
-   "bookmarks": 18,
-   "format": "quote + text",
-   "keywords": [
-    "fucking",
-    "entrance"
-   ],
-   "highlight": true,
-   "hook": "what a fucking entrance https://t.co/oBtrCrcGlU",
-   "video_tip": "FSD/Tesla · 2.2h old · 0.76× median · quote + text · kw: fucking, entrance"
-  },
-  {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
    "url": "https://x.com/wholemars/status/2114138827069767711",
    "status_url": "https://x.com/i/status/2114138827069767711",
    "text": "Tesla Roadster is on display at the Petersen Museum in Los Angeles for the next few days only. \n\nGo see it if you're nearby https://t.co/qBal3dnr5F",
@@ -2783,7 +2388,7 @@
    "views_label": "72.3K",
    "median": 115724,
    "multiple": 0.62,
-   "age_hours": 1.5,
+   "age_hours": 1.6,
    "created_at": "2026-10-25T19:27:47-07:00",
    "likes": 499,
    "reposts": 12,
@@ -2799,7 +2404,7 @@
    ],
    "highlight": true,
    "hook": "Has anyone personally here experienced the iPhone Duo cracked screen problem? If so, DM me.",
-   "video_tip": "Apple · 1.5h old · 0.62× median · standalone + text · kw: anyone, personally, experienced, iphone, duo"
+   "video_tip": "Apple · 1.6h old · 0.62× median · standalone + text · kw: anyone, personally, experienced, iphone, duo"
   },
   {
    "handle": "@wholemars",
@@ -2812,7 +2417,7 @@
    "views_label": "11.1K",
    "median": 20340.0,
    "multiple": 0.54,
-   "age_hours": 6.7,
+   "age_hours": 6.8,
    "created_at": "2026-10-25T14:16:10-07:00",
    "likes": 51,
    "reposts": 3,
@@ -2828,30 +2433,7 @@
    ],
    "highlight": true,
    "hook": "Subscriber spaces at 4:20 PM California time today! We’ll be talking about Tesla, SpaceX, and superintelligence. https://t.co/bWlbMboJ4o",
-   "video_tip": "FSD/Tesla · 6.7h old · 0.54× median · standalone + text · kw: subscriber, spaces, california, time, talking"
-  },
-  {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "topic": "FSD/Tesla",
-   "url": "https://x.com/wholemars/status/2114498429649031375",
-   "status_url": "https://x.com/i/status/2114498429649031375",
-   "text": "https://t.co/HrRLr6DBI4",
-   "views": 10604,
-   "views_label": "10.6K",
-   "median": 20340.0,
-   "multiple": 0.52,
-   "age_hours": 4.6,
-   "created_at": "2026-10-25T16:24:45-07:00",
-   "likes": 32,
-   "reposts": 10,
-   "replies": 52,
-   "bookmarks": 10,
-   "format": "standalone + text",
-   "keywords": [],
-   "highlight": true,
-   "hook": "https://t.co/HrRLr6DBI4",
-   "video_tip": "FSD/Tesla · 4.6h old · 0.52× median · standalone + text · kw: "
+   "video_tip": "FSD/Tesla · 6.8h old · 0.54× median · standalone + text · kw: subscriber, spaces, california, time, talking"
   },
   {
    "handle": "@SawyerMerritt",
@@ -2864,7 +2446,7 @@
    "views_label": "43.4K",
    "median": 87948,
    "multiple": 0.49,
-   "age_hours": 8.6,
+   "age_hours": 8.7,
    "created_at": "2026-10-25T12:21:39-07:00",
    "likes": 1408,
    "reposts": 58,
@@ -2879,7 +2461,7 @@
    ],
    "highlight": true,
    "hook": "Tesla robotaxis are out in full force today. https://t.co/zEVNiVcJS9",
-   "video_tip": "FSD/Tesla · 8.6h old · 0.49× median · quote + text · kw: tesla, robotaxis, full, force"
+   "video_tip": "FSD/Tesla · 8.7h old · 0.49× median · quote + text · kw: tesla, robotaxis, full, force"
   },
   {
    "handle": "@SawyerMerritt",
@@ -2892,7 +2474,7 @@
    "views_label": "31.3K",
    "median": 87948,
    "multiple": 0.36,
-   "age_hours": 1.1,
+   "age_hours": 1.2,
    "created_at": "2026-10-25T19:51:19-07:00",
    "likes": 1113,
    "reposts": 91,
@@ -2908,7 +2490,7 @@
    ],
    "highlight": true,
    "hook": "55 new Tesla Semi trucks spotted in Nevada.\n\nProduction seems to be going well! https://t.co/cxvyer6b6W https://t.co/vYHfw0SPG4",
-   "video_tip": "FSD/Tesla · 1.1h old · 0.36× median · quote + photo · kw: tesla, semi, trucks, spotted, nevada"
+   "video_tip": "FSD/Tesla · 1.2h old · 0.36× median · quote + photo · kw: tesla, semi, trucks, spotted, nevada"
   },
   {
    "handle": "@markgurman",
@@ -2921,7 +2503,7 @@
    "views_label": "38.7K",
    "median": 115724,
    "multiple": 0.33,
-   "age_hours": 13.6,
+   "age_hours": 13.7,
    "created_at": "2026-10-25T07:21:43-07:00",
    "likes": 206,
    "reposts": 15,
@@ -2937,7 +2519,7 @@
    ],
    "highlight": true,
    "hook": "Also in Power On: Apple’s latest hardware leadership reshuffle: longtime display chiefs are moving toward retirement, new engineering VPs are named and wireless executives are gaining influence. https://t.co/FCfPFQGmwg",
-   "video_tip": "Apple · 13.6h old · 0.33× median · standalone + text · kw: power, apple, latest, hardware, leadership"
+   "video_tip": "Apple · 13.7h old · 0.33× median · standalone + text · kw: power, apple, latest, hardware, leadership"
   },
   {
    "handle": "@markgurman",
@@ -2998,7 +2580,7 @@
    "video_tip": "FSD/Tesla · 8.4h old · 0.3× median · quote + photo · kw: incredible, photo, expand, geofence, weekend"
   }
  ],
- "hits_count": 104,
+ "hits_count": 89,
  "virals": [],
  "outsiders": [],
  "outsiders_count": 0,
@@ -3053,36 +2635,36 @@
    "handle": "@markgurman",
    "name": "markgurman",
    "best": 590667,
-   "total": 1725370,
-   "hits": 9
+   "total": 1581223,
+   "hits": 8
   },
   {
    "handle": "@SawyerMerritt",
    "name": "SawyerMerritt",
-   "best": 422572,
-   "total": 2494543,
-   "hits": 16
-  },
-  {
-   "handle": "@wholemars",
-   "name": "wholemars",
-   "best": 276758,
-   "total": 736252,
-   "hits": 20
+   "best": 326052,
+   "total": 1638762,
+   "hits": 13
   },
   {
    "handle": "@9to5mac",
    "name": "9to5mac",
    "best": 78410,
-   "total": 363537,
-   "hits": 11
+   "total": 321521,
+   "hits": 10
   },
   {
    "handle": "@BLKMDL3",
    "name": "BLKMDL3",
    "best": 61781,
-   "total": 195815,
-   "hits": 11
+   "total": 149649,
+   "hits": 8
+  },
+  {
+   "handle": "@wholemars",
+   "name": "wholemars",
+   "best": 53809,
+   "total": 320934,
+   "hits": 13
   },
   {
    "handle": "@TeslaNewswire",
@@ -3247,36 +2829,36 @@
      "handle": "@markgurman",
      "name": "markgurman",
      "best": 590667,
-     "total": 1725370,
-     "hits": 9
+     "total": 1581223,
+     "hits": 8
     },
     {
      "handle": "@SawyerMerritt",
      "name": "SawyerMerritt",
-     "best": 422572,
-     "total": 2494543,
-     "hits": 16
-    },
-    {
-     "handle": "@wholemars",
-     "name": "wholemars",
-     "best": 276758,
-     "total": 736252,
-     "hits": 20
+     "best": 326052,
+     "total": 1638762,
+     "hits": 13
     },
     {
      "handle": "@9to5mac",
      "name": "9to5mac",
      "best": 78410,
-     "total": 363537,
-     "hits": 11
+     "total": 321521,
+     "hits": 10
     },
     {
      "handle": "@BLKMDL3",
      "name": "BLKMDL3",
      "best": 61781,
-     "total": 195815,
-     "hits": 11
+     "total": 149649,
+     "hits": 8
+    },
+    {
+     "handle": "@wholemars",
+     "name": "wholemars",
+     "best": 53809,
+     "total": 320934,
+     "hits": 13
     },
     {
      "handle": "@TeslaNewswire",
@@ -3333,36 +2915,36 @@
      "handle": "@markgurman",
      "name": "markgurman",
      "best": 590667,
-     "total": 1725370,
-     "hits": 9
+     "total": 1581223,
+     "hits": 8
     },
     {
      "handle": "@SawyerMerritt",
      "name": "SawyerMerritt",
-     "best": 422572,
-     "total": 2494543,
-     "hits": 16
-    },
-    {
-     "handle": "@wholemars",
-     "name": "wholemars",
-     "best": 276758,
-     "total": 736252,
-     "hits": 20
+     "best": 326052,
+     "total": 1638762,
+     "hits": 13
     },
     {
      "handle": "@9to5mac",
      "name": "9to5mac",
      "best": 78410,
-     "total": 363537,
-     "hits": 11
+     "total": 321521,
+     "hits": 10
     },
     {
      "handle": "@BLKMDL3",
      "name": "BLKMDL3",
      "best": 61781,
-     "total": 195815,
-     "hits": 11
+     "total": 149649,
+     "hits": 8
+    },
+    {
+     "handle": "@wholemars",
+     "name": "wholemars",
+     "best": 53809,
+     "total": 320934,
+     "hits": 13
     },
     {
      "handle": "@TeslaNewswire",
